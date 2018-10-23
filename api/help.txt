@@ -1,0 +1,16 @@
+npm install --save mongodb
+npm install --save multer
+npm install --save lodash
+npm install -g sass --save
+npm install --save classnames
+npm install --save axios
+npm install archiver --save
+npm install nodemailer --save
+npm install --save prop-types
+npm install --save react-router-dom
+npm install --save archiver
+npm install --save moment react-moment
+
+sass --watch app.scss:app.css
+npm install -g create-react-app
+create-react-app app
